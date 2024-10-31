@@ -1,4 +1,4 @@
-Go developer. Currently looking for work.
+Go developer. Not looking for work.
 
 kb@karelbilek.com
 
