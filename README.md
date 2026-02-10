@@ -1,4 +1,4 @@
-Go developer. Not looking for work.
+Go developer. Currently working on DNS for CDN77.
 
 kb@karelbilek.com
 
